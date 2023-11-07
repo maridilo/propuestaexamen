@@ -1,2 +1,2 @@
 # propuestaexamen
-https://github.com/maridilo/propuestaexamen/blob/main/README.md
+https://github.com/maridilo/propuestaexamen.git
